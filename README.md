@@ -45,6 +45,8 @@ The final output of this system is the critique of the implementation instructio
 
    *(Make sure that `python3` and `pip` are installed in your environment)*
 
+4. Move benchmark_Audit_Prompt file into folder with python and shell script.
+
 ## Usage
 
 To run the program, use the following command:
